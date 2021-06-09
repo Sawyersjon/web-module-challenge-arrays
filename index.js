@@ -146,7 +146,7 @@ Use the removeFlavorByName function below to do the following:
 
     For example: running removeFlavorByName(originalFlavors, "Rocky Road") would return an array with the a length of 30 because Rocky Road would have been removed. 
 
-    HINT: You can use .splice() for this
+    ?HINT: You can use .splice() for this
 */
 
 function removeFlavorByName(array, flavorString){
